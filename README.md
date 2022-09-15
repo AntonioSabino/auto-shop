@@ -1,6 +1,6 @@
-Projeto Auto Car Shop!
+# Projeto Auto Car Shop!
 
-Neste projeto, aplico os princípios de Programação Orientada a Objetos (`POO`) para a construção de uma API com `CRUD` para gerenciar uma concessionária de veículos. Isso será feito utilizando o banco de dados `MongoDB`.
+Neste projeto, aplico os princípios de Programação Orientada a Objetos (`POO`) para a construção de uma API com `CRUD` para gerenciar uma concessionária de veículos. Isso será feito utilizando o banco de dados `MongoDB`, `Mongoose`, `TypeScript`, `NodeJS`, `Express`, `JOI` e `Zod`.
 
 # Orientações
 
